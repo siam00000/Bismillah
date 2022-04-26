@@ -1,8 +1,8 @@
 #!/usr/bin/python2
 # coding=utf-8
-# coding by Nazri-XD
+# coding by siam-00000
 # Note : jangan cuma rekode kontol
-# Open source code by Nazri-XD | ngotak dikit cok jangan jual di perjual belikan...
+# Open source code by siam-00000 | ngotak dikit cok jangan jual di perjual belikan...
 
 ## Jangan di jual belikan memek...
 ## Hargai gue dengan jangan ganti nama author...
@@ -82,13 +82,17 @@ def folder():
 
 def banner():
 	print('''%s
-_______  ______ _______ _______ _     _ _______  ______
-|       |_____/ |_____| |       |____/  |______ |_____/
-|_____  |    \_ |     | |_____  |    \_ |______ |    \_
+
+░██████╗██╗░█████╗░███╗░░░███╗
+██╔════╝██║██╔══██╗████╗░████║
+╚█████╗░██║███████║██╔████╔██║
+░╚═══██╗██║██╔══██║██║╚██╔╝██║
+██████╔╝██║██║░░██║██║░╚═╝░██║
+╚═════╝░╚═╝╚═╝░░╚═╝╚═╝░░░░░╚═╝
 ───────────────────────────────────────────────────────
- [\x1b[1;96m+%s] Author   : Nazri-XD
- [\x1b[1;96m+%s] Github   : https://github.com/Nazri-XD
- [\x1b[1;96m+%s] Facebook : LU PASTI TAU AKUN GUA UNIK
+ [\x1b[1;96m+%s] Author   : siam-00000
+ [\x1b[1;96m+%s] Github   : https://github.com/siam-00000
+ [\x1b[1;96m+%s] Facebook : S H I A M ✈️
 ───────────────────────────────────────────────────────\n'''%(N,N,N,N))
 
 class login:
